@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://fantouch.github.io/atom.xml" rel="self"/>
-  <link href="http://fantouch.github.io/"/>
-  <updated>2013-06-13T14:58:03+08:00</updated>
-  <id>http://fantouch.github.io/</id>
+  <link href="http://blog.fantouch.me/atom.xml" rel="self"/>
+  <link href="http://blog.fantouch.me/"/>
+  <updated>2013-06-13T15:59:22+08:00</updated>
+  <id>http://blog.fantouch.me/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
